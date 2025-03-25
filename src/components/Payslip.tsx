@@ -122,7 +122,7 @@ const Payslip: React.FC = () => {
           </table>
 
           {/* Net Pay Section - Separate Table */}
-          <table className="w-full mt-4 border-collapse bg-gray-100 border border-gray-900">
+          <table className="w-full mt-3 border-collapse bg-gray-100 border border-gray-900">
             <tbody>
               <tr className="font-semibold text-base">
                 <td className="px-3">Net Pay</td>
